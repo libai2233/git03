@@ -8,5 +8,6 @@ public class Sutent {
         System.out.println("master01");
         System.out.println("master02");
         System.out.println("hot-1");
+         System.out.println("online-derected");
     }
 }
