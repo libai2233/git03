@@ -7,5 +7,6 @@ public class Sutent {
         System.out.println("003");
         System.out.println("master01");
         System.out.println("master02");
+        System.out.println("hot-1");
     }
 }
